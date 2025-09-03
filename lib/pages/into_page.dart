@@ -57,62 +57,6 @@ class IntoPage extends StatelessWidget {
               ],
             ),
           )
-          // Padding(
-          //   padding: const EdgeInsets.fromLTRB(24.0, 10, 24.0, 20),
-          //   child: Column(
-          //     crossAxisAlignment: CrossAxisAlignment.start,
-          //     children: [
-          //       Row(
-          //         children: [
-          //           const Text("Discover",
-          //               style: TextStyle(
-          //                 fontFamily: 'Swiss721Light',
-          //                 fontSize: 42,
-          //                 color: Colors.grey,
-          //                 // fontWeight: FontWeight.values[1],
-          //               )),
-          //           const SizedBox(width: 20),
-          //           Row(
-          //             mainAxisSize: MainAxisSize.min,
-          //             children: [
-          //               SizedBox(
-          //                   width: 80,
-          //                   height: 3,
-          //                   child: DecoratedBox(
-          //                     decoration: BoxDecoration(
-          //                       color: Colors.black,
-          //                       borderRadius: BorderRadius.circular(2.5),
-          //                     ),
-          //                   )),
-          //               const SizedBox(
-          //                 child: Icon(
-          //                   Icons.arrow_forward_rounded,
-          //                   size: 42,
-          //                 ),
-          //               ),
-          //             ],
-          //           ),
-          //         ],
-          //       ),
-          //       const Text(
-          //         "THE BEAUTY OF WINTER.",
-          //         style: TextStyle(
-          //           fontSize: 64,
-          //           fontWeight: FontWeight.bold,
-          //           height: 1.0,
-          //           fontFamily: 'Swiss721Bold',
-          //         ),
-          //       ),
-          //       const SizedBox(height: 20),
-          //       MyButton(
-          //         text: 'Get Started',
-          //         onPressed: () {
-          //           Navigator.pushNamed(context, '/menupage');
-          //         },
-          //       ),
-          //     ],
-          //   ),
-          // )
         ],
       ),
     );

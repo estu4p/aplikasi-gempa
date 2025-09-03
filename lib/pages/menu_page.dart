@@ -42,7 +42,7 @@ class _MenuPageState extends State<MenuPage> {
         elevation: 0,
         automaticallyImplyLeading: false,
         title: const Text(
-          'Home Page',
+          'Halaman Utama',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
       ),

@@ -16,7 +16,7 @@ class _DetailPageState extends State<DetailPage> {
     return DefaultTextStyle(
       style: TextStyle(
         fontSize: 16,
-        height: 1.5,
+        height: 1.7,
         color: Colors.grey.shade700,
         decoration: TextDecoration.none,
         fontWeight: FontWeight.normal,
